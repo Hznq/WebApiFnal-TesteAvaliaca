@@ -9,5 +9,6 @@
         public int Quantidade { get; set; }
 
         public decimal Valor {  get; set; }
+        public DateTime DataCadastro {  get; set; }
     }
 }
